@@ -1,0 +1,252 @@
+{
+    "1": {
+        "soal": "Apa fokus utama jurusan TKJ?",
+        "pilihan": ["Jaringan komputer", "Desain grafis", "Animasi", "Perhotelan"],
+        "jawaban": "Jaringan komputer"
+    },
+    "2": {
+        "soal": "Perangkat utama untuk menghubungkan jaringan adalah?",
+        "pilihan": ["Router", "Speaker", "Scanner", "Printer"],
+        "jawaban": "Router"
+    },
+    "3": {
+        "soal": "IP Address digunakan untuk?",
+        "pilihan": ["Identifikasi perangkat di jaringan", "Mengedit video", "Mendeteksi virus", "Mengukur kecepatan RAM"],
+        "jawaban": "Identifikasi perangkat di jaringan"
+    },
+    "4": {
+        "soal": "Kabel jaringan dengan 8 inti disebut?",
+        "pilihan": ["UTP", "HDMI", "VGA", "Audio Jack"],
+        "jawaban": "UTP"
+    },
+    "5": {
+        "soal": "Protokol utama untuk komunikasi internet adalah?",
+        "pilihan": ["TCP/IP", "MP4", "SMTP", "JPG"],
+        "jawaban": "TCP/IP"
+    },
+    "6": {
+        "soal": "Modem berfungsi untuk?",
+        "pilihan": ["Mengubah sinyal digital ke analog", "Memperbesar suara", "Menampilkan video", "Mengedit jaringan"],
+        "jawaban": "Mengubah sinyal digital ke analog"
+    },
+    "7": {
+        "soal": "Jenis topologi jaringan yang menghubungkan perangkat secara melingkar?",
+        "pilihan": ["Ring", "Star", "Bus", "Mesh"],
+        "jawaban": "Ring"
+    },
+    "8": {
+        "soal": "Firewall digunakan untuk?",
+        "pilihan": ["Keamanan jaringan", "Mempercepat CPU", "Meningkatkan FPS", "Membersihkan file sampah"],
+        "jawaban": "Keamanan jaringan"
+    },
+    "9": {
+        "soal": "Perangkat pasif jaringan adalah?",
+        "pilihan": ["Hub", "Laptop", "Switch", "Server"],
+        "jawaban": "Hub"
+    },
+    "10": {
+        "soal": "Perintah untuk mengecek koneksi jaringan adalah?",
+        "pilihan": ["ping", "dir", "cls", "tasklist"],
+        "jawaban": "ping"
+    },
+    "11": {
+        "soal": "Kabel UTP kategori yang umum digunakan untuk jaringan adalah?",
+        "pilihan": ["Cat 5e", "Cat 2", "Cat 1", "Cat 3"],
+        "jawaban": "Cat 5e"
+    },
+    "12": {
+        "soal": "Perangkat yang membagi sinyal internet ke banyak perangkat adalah?",
+        "pilihan": ["Switch", "CD-ROM", "Flashdisk", "Sound Card"],
+        "jawaban": "Switch"
+    },
+    "13": {
+        "soal": "SSID pada jaringan WiFi adalah?",
+        "pilihan": ["Nama jaringan", "Password jaringan", "IP server", "Jenis kabel"],
+        "jawaban": "Nama jaringan"
+    },
+    "14": {
+        "soal": "Perangkat yang menyimpan data pengguna di jaringan adalah?",
+        "pilihan": ["Server", "Mouse", "Projector", "Keyboard"],
+        "jawaban": "Server"
+    },
+    "15": {
+        "soal": "FTP digunakan untuk?",
+        "pilihan": ["Transfer file", "Streaming musik", "Merekam layar", "Menghapus virus"],
+        "jawaban": "Transfer file"
+    },
+    "16": {
+        "soal": "Apa fungsi DHCP?",
+        "pilihan": ["Memberikan IP otomatis", "Memblokir situs", "Meningkatkan sinyal", "Membaca file sistem"],
+        "jawaban": "Memberikan IP otomatis"
+    },
+    "17": {
+        "soal": "Perangkat untuk memperkuat sinyal WiFi?",
+        "pilihan": ["Repeater", "Router", "CPU", "GPU"],
+        "jawaban": "Repeater"
+    },
+    "18": {
+        "soal": "Kabel fiber optic menggunakan?",
+        "pilihan": ["Cahaya", "Listrik", "Gelombang suara", "Gelombang radio"],
+        "jawaban": "Cahaya"
+    },
+    "19": {
+        "soal": "Komponen jaringan yang berfungsi mengarahkan paket data?",
+        "pilihan": ["Router", "Monitor", "Fan", "Case"],
+        "jawaban": "Router"
+    },
+    "20": {
+        "soal": "Apa fungsi utama subnet mask?",
+        "pilihan": ["Membagi jaringan", "Mengedit foto", "Mengatur suara", "Memproses video"],
+        "jawaban": "Membagi jaringan"
+    },
+    "21": {
+        "soal": "Bandwidth mengacu pada?",
+        "pilihan": ["Kecepatan data", "Kecepatan CPU", "Ukuran file", "Kualitas gambar"],
+        "jawaban": "Kecepatan data"
+    },
+    "22": {
+        "soal": "WLAN adalah jaringan?",
+        "pilihan": ["Wireless", "Berbasis kabel", "Virtual", "Multiuser"],
+        "jawaban": "Wireless"
+    },
+    "23": {
+        "soal": "Perintah untuk melihat konfigurasi IP di Windows?",
+        "pilihan": ["ipconfig", "format", "shutdown", "bootrec"],
+        "jawaban": "ipconfig"
+    },
+    "24": {
+        "soal": "Apa fungsi proxy server?",
+        "pilihan": ["Menyembunyikan identitas pengguna", "Memperbesar sinyal", "Menambah RAM", "Mengedit video"],
+        "jawaban": "Menyembunyikan identitas pengguna"
+    },
+    "25": {
+        "soal": "Port standar HTTP adalah?",
+        "pilihan": ["80", "20", "21", "8080"],
+        "jawaban": "80"
+    },
+    "26": {
+        "soal": "Jenis topologi paling umum digunakan saat ini?",
+        "pilihan": ["Star", "Bus", "Ring", "Hybrid"],
+        "jawaban": "Star"
+    },
+    "27": {
+        "soal": "Perangkat jaringan yang bekerja di layer 2 OSI?",
+        "pilihan": ["Switch", "Router", "Modem", "Repeater"],
+        "jawaban": "Switch"
+    },
+    "28": {
+        "soal": "Kelebihan fiber optic adalah?",
+        "pilihan": ["Kecepatan tinggi", "Mudah rusak", "Lambat", "Tidak bisa jauh"],
+        "jawaban": "Kecepatan tinggi"
+    },
+    "29": {
+        "soal": "Standar keamanan WiFi yang paling kuat?",
+        "pilihan": ["WPA2", "WEP", "Open", "None"],
+        "jawaban": "WPA2"
+    },
+    "30": {
+        "soal": "Perintah traceroute digunakan untuk?",
+        "pilihan": ["Melihat rute paket data", "Memformat sistem", "Menghapus cache", "Mengecek RAM"],
+        "jawaban": "Melihat rute paket data"
+    },
+    "31": {
+        "soal": "Apa fungsi VLAN?",
+        "pilihan": ["Memisahkan jaringan secara virtual", "Memperkuat sinyal", "Meningkatkan FPS", "Mengatur suara"],
+        "jawaban": "Memisahkan jaringan secara virtual"
+    },
+    "32": {
+        "soal": "Alamat MAC adalah?",
+        "pilihan": ["Alamat fisik perangkat", "Alamat web", "Alamat IP palsu", "Alamat server"],
+        "jawaban": "Alamat fisik perangkat"
+    },
+    "33": {
+        "soal": "Perangkat untuk mengalirkan internet lewat listrik?",
+        "pilihan": ["Powerline adapter", "Repeater", "Flashdisk", "UPS"],
+        "jawaban": "Powerline adapter"
+    },
+    "34": {
+        "soal": "Perangkat yang mengubah sinyal digital ke WiFi?",
+        "pilihan": ["Access Point", "Switch", "Hub", "Server"],
+        "jawaban": "Access Point"
+    },
+    "35": {
+        "soal": "Apa fungsi NAT?",
+        "pilihan": ["Menerjemahkan IP private ke public", "Melindungi hardware", "Memformat sistem", "Menghapus file"],
+        "jawaban": "Menerjemahkan IP private ke public"
+    },
+    "36": {
+        "soal": "DNS digunakan untuk?",
+        "pilihan": ["Menerjemahkan domain ke IP", "Mengukur daya listrik", "Membagi jaringan", "Mengedit gambar"],
+        "jawaban": "Menerjemahkan domain ke IP"
+    },
+    "37": {
+        "soal": "Wireless menggunakan gelombang?",
+        "pilihan": ["Radio", "Air", "Cahaya laser", "Suara"],
+        "jawaban": "Radio"
+    },
+    "38": {
+        "soal": "Perangkat yang menyediakan akses internet di sekolah atau kantor?",
+        "pilihan": ["Router", "Case", "Cooler", "Harddisk"],
+        "jawaban": "Router"
+    },
+    "39": {
+        "soal": "Apa fungsi port 21?",
+        "pilihan": ["FTP", "HTTP", "DNS", "SMTP"],
+        "jawaban": "FTP"
+    },
+    "40": {
+        "soal": "UPS berfungsi untuk?",
+        "pilihan": ["Menjaga listrik stabil", "Mempercepat internet", "Menyimpan file", "Membersihkan virus"],
+        "jawaban": "Menjaga listrik stabil"
+    },
+    "41": {
+        "soal": "Kabel coaxial memiliki bagian utama berupa?",
+        "pilihan": ["Inti tembaga", "Serat kaca", "Plastik", "Fiber"],
+        "jawaban": "Inti tembaga"
+    },
+    "42": {
+        "soal": "Apa fungsi port 25?",
+        "pilihan": ["SMTP", "FTP", "DNS", "HTTP"],
+        "jawaban": "SMTP"
+    },
+    "43": {
+        "soal": "Apa itu ping timeout?",
+        "pilihan": ["Tidak ada balasan dari host", "Paket berhasil", "Kecepatan naik", "IP berubah"],
+        "jawaban": "Tidak ada balasan dari host"
+    },
+    "44": {
+        "soal": "WAN mencakup area?",
+        "pilihan": ["Luas", "Rumah", "Kelas", "Gedung"],
+        "jawaban": "Luas"
+    },
+    "45": {
+        "soal": "Switch bekerja berdasarkan?",
+        "pilihan": ["MAC Address", "IP Address", "Hostname", "DNS"],
+        "jawaban": "MAC Address"
+    },
+    "46": {
+        "soal": "SSID hidden artinya?",
+        "pilihan": ["Nama WiFi tidak ditampilkan", "Password salah", "Tidak ada internet", "Perangkat terlalu banyak"],
+        "jawaban": "Nama WiFi tidak ditampilkan"
+    },
+    "47": {
+        "soal": "Apa fungsi port 443?",
+        "pilihan": ["HTTPS", "SSH", "FTP", "SMTP"],
+        "jawaban": "HTTPS"
+    },
+    "48": {
+        "soal": "Apa itu hotspot?",
+        "pilihan": ["Titik akses WiFi", "Jaringan kabel", "Alamat server", "Jenis virus"],
+        "jawaban": "Titik akses WiFi"
+    },
+    "49": {
+        "soal": "Apa perangkat yang digunakan teknisi untuk mengecek kabel?",
+        "pilihan": ["LAN Tester", "Flashdisk", "Speaker", "Papan ketik"],
+        "jawaban": "LAN Tester"
+    },
+    "50": {
+        "soal": "Apa fungsi port 53?",
+        "pilihan": ["DNS", "HTTP", "FTP", "SSH"],
+        "jawaban": "DNS"
+}
+}

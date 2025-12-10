@@ -1,0 +1,252 @@
+{
+    "1": {
+        "soal": "Apa kepanjangan dari RGB dalam desain digital?",
+        "pilihan": ["Red Green Blue", "Red Grey Black", "Render Graphic Bit", "Real Gamma Bright"],
+        "jawaban": "Red Green Blue"
+    },
+    "2": {
+        "soal": "Software yang digunakan untuk membuat animasi 2D adalah?",
+        "pilihan": ["Adobe Animate", "Adobe Audition", "Notepad++", "Visual Studio"],
+        "jawaban": "Adobe Animate"
+    },
+    "3": {
+        "soal": "Format gambar yang mendukung transparansi adalah?",
+        "pilihan": ["JPG", "PNG", "BMP", "TIFF"],
+        "jawaban": "PNG"
+    },
+    "4": {
+        "soal": "FPS digunakan untuk mengukur apa dalam video?",
+        "pilihan": ["Warna video", "Jumlah frame per detik", "Ukuran file", "Volume audio"],
+        "jawaban": "Jumlah frame per detik"
+    },
+    "5": {
+        "soal": "Software gratis untuk editing audio adalah?",
+        "pilihan": ["Audacity", "Blender", "Filmora", "CorelDraw"],
+        "jawaban": "Audacity"
+    },
+    "6": {
+        "soal": "Storyboard digunakan untuk?",
+        "pilihan": ["Mengatur warna", "Membuat alur visual", "Mengedit suara", "Mengcompress video"],
+        "jawaban": "Membuat alur visual"
+    },
+    "7": {
+        "soal": "Rasio layar standar untuk video modern adalah?",
+        "pilihan": ["4:3", "16:9", "21:9", "3:2"],
+        "jawaban": "16:9"
+    },
+    "8": {
+        "soal": "Software 3D modeling yang populer adalah?",
+        "pilihan": ["Blender", "Canva", "Illustrator", "Audition"],
+        "jawaban": "Blender"
+    },
+    "9": {
+        "soal": "Format audio berkualitas tinggi (lossless) adalah?",
+        "pilihan": ["MP3", "WAV", "AAC", "OGG"],
+        "jawaban": "WAV"
+    },
+    "10": {
+        "soal": "Transisi video paling dasar dan sering digunakan adalah?",
+        "pilihan": ["Fade", "Spin 360", "Flash White", "Explosion"],
+        "jawaban": "Fade"
+    },
+    "11": {
+        "soal": "Alat untuk menggambar digital di komputer adalah?",
+        "pilihan": ["Drawing Tablet", "Printer", "Scanner", "Mouse Wireless"],
+        "jawaban": "Drawing Tablet"
+    },
+    "12": {
+        "soal": "Format video yang umum digunakan untuk upload ke YouTube adalah?",
+        "pilihan": ["MKV", "MP4", "FLV", "3GP"],
+        "jawaban": "MP4"
+    },
+    "13": {
+        "soal": "Software editing video profesional buatan Adobe adalah?",
+        "pilihan": ["Premiere Pro", "Vegas Pro", "Filmora", "HitFilm"],
+        "jawaban": "Premiere Pro"
+    },
+    "14": {
+        "soal": "Tool untuk menghapus background di Photoshop adalah?",
+        "pilihan": ["Magic Eraser", "Crop Tool", "Brush Tool", "Move Tool"],
+        "jawaban": "Magic Eraser"
+    },
+    "15": {
+        "soal": "Resolusi standar Full HD adalah?",
+        "pilihan": ["1280x720", "1920x1080", "2560x1440", "3840x2160"],
+        "jawaban": "1920x1080"
+    },
+    "16": {
+        "soal": "Istilah untuk menggabungkan beberapa klip video menjadi satu adalah?",
+        "pilihan": ["Rendering", "Cutting", "Merging", "Tracking"],
+        "jawaban": "Merging"
+    },
+    "17": {
+        "soal": "Format file proyek Photoshop adalah?",
+        "pilihan": ["PSD", "AI", "PNG", "JPG"],
+        "jawaban": "PSD"
+    },
+    "18": {
+        "soal": "Software open-source untuk 3D animation adalah?",
+        "pilihan": ["Blender", "Cinema4D", "Maya", "3dsMax"],
+        "jawaban": "Blender"
+    },
+    "19": {
+        "soal": "Alat untuk mengukur intensitas cahaya saat fotografi adalah?",
+        "pilihan": ["Light Meter", "Thermometer", "Speedlight", "Reflector"],
+        "jawaban": "Light Meter"
+    },
+    "20": {
+        "soal": "Teknik animasi yang menggunakan gambar per frame disebut?",
+        "pilihan": ["Stop Motion", "Motion Blur", "Keyframe", "Tweening"],
+        "jawaban": "Stop Motion"
+    },
+    "21": {
+        "soal": "Warna CMYK digunakan untuk?",
+        "pilihan": ["Layar monitor", "Cetak/printing", "Audio mixing", "Video rendering"],
+        "jawaban": "Cetak/printing"
+    },
+    "22": {
+        "soal": "FPS umum untuk video sinematik adalah?",
+        "pilihan": ["15", "24", "30", "60"],
+        "jawaban": "24"
+    },
+    "23": {
+        "soal": "Software untuk desain vektor adalah?",
+        "pilihan": ["Adobe Illustrator", "Premiere Pro", "After Effects", "FL Studio"],
+        "jawaban": "Adobe Illustrator"
+    },
+    "24": {
+        "soal": "Alat perekam suara profesional disebut?",
+        "pilihan": ["Microphone Condenser", "Tripod", "Boom Arm", "Pop Filter"],
+        "jawaban": "Microphone Condenser"
+    },
+    "25": {
+        "soal": "Teknik mengganti background video menggunakan warna hijau disebut?",
+        "pilihan": ["Color Grading", "Chromakey", "Exposure", "Tracking"],
+        "jawaban": "Chromakey"
+    },
+    "26": {
+        "soal": "Ukuran kertas standar untuk desain poster adalah?",
+        "pilihan": ["A4", "A3", "A5", "Letter"],
+        "jawaban": "A3"
+    },
+    "27": {
+        "soal": "Audio stereo memiliki berapa channel?",
+        "pilihan": ["1", "2", "3", "5"],
+        "jawaban": "2"
+    },
+    "28": {
+        "soal": "Tool untuk mengatur warna di premiere pro adalah?",
+        "pilihan": ["Lumetri Color", "Effect Control", "Media Browser", "Title Tool"],
+        "jawaban": "Lumetri Color"
+    },
+    "29": {
+        "soal": "Format gambar berukuran kecil dan tidak transparan adalah?",
+        "pilihan": ["PNG", "GIF", "JPG", "RAW"],
+        "jawaban": "JPG"
+    },
+    "30": {
+        "soal": "Efek suara dalam film disebut?",
+        "pilihan": ["SFX", "VFX", "LFX", "AFX"],
+        "jawaban": "SFX"
+    },
+    "31": {
+        "soal": "Teknik memperhalus tepian objek disebut?",
+        "pilihan": ["Feather", "Sharpen", "Crop", "Slice"],
+        "jawaban": "Feather"
+    },
+    "32": {
+        "soal": "Software untuk motion graphics adalah?",
+        "pilihan": ["After Effects", "Audition", "Photoshop", "InDesign"],
+        "jawaban": "After Effects"
+    },
+    "33": {
+        "soal": "Frame adalah?",
+        "pilihan": ["Satu gambar dalam video", "Efek visual", "Transisi", "Audio track"],
+        "jawaban": "Satu gambar dalam video"
+    },
+    "34": {
+        "soal": "Alat untuk menstabilkan kamera saat berjalan?",
+        "pilihan": ["Gimbal", "Tripod", "Monopod", "Slider"],
+        "jawaban": "Gimbal"
+    },
+    "35": {
+        "soal": "Resolusi 4K memiliki ukuran?",
+        "pilihan": ["1920x1080", "1280x720", "3840x2160", "4096x2160"],
+        "jawaban": "3840x2160"
+    },
+    "36": {
+        "soal": "Teknik mengurangi noise audio adalah?",
+        "pilihan": ["Noise Reduction", "Compressor", "Limiter", "Reverb"],
+        "jawaban": "Noise Reduction"
+    },
+    "37": {
+        "soal": "Layer pada Photoshop digunakan untuk?",
+        "pilihan": ["Memisahkan elemen desain", "Mengecilkan file", "Memotong video", "Merekam audio"],
+        "jawaban": "Memisahkan elemen desain"
+    },
+    "38": {
+        "soal": "Fungsi timeline dalam editing?",
+        "pilihan": ["Mengatur urutan klip", "Menghapus virus", "Mengedit suara", "Mengatur RAM"],
+        "jawaban": "Mengatur urutan klip"
+    },
+    "39": {
+        "soal": "Format gambar bergerak adalah?",
+        "pilihan": ["PNG", "JPG", "GIF", "RAW"],
+        "jawaban": "GIF"
+    },
+    "40": {
+        "soal": "Effects untuk mempercepat atau memperlambat video adalah?",
+        "pilihan": ["Time Remapping", "Color Correction", "Masking", "Tracking"],
+        "jawaban": "Time Remapping"
+    },
+    "41": {
+        "soal": "Pencahayaan dasar dalam fotografi terdiri dari berapa titik?",
+        "pilihan": ["2 Point", "3 Point", "4 Point", "1 Point"],
+        "jawaban": "3 Point"
+    },
+    "42": {
+        "soal": "Software open-source untuk editing video adalah?",
+        "pilihan": ["Kdenlive", "Premiere Pro", "Filmora", "DaVinci Resolve"],
+        "jawaban": "Kdenlive"
+    },
+    "43": {
+        "soal": "Format file vektor adalah?",
+        "pilihan": ["AI", "JPG", "PNG", "BMP"],
+        "jawaban": "AI"
+    },
+    "44": {
+        "soal": "FPS tinggi cocok untuk?",
+        "pilihan": ["Slow Motion", "Dark Scene", "Stop Motion", "Voice Over"],
+        "jawaban": "Slow Motion"
+    },
+    "45": {
+        "soal": "Shortcut untuk copy di Windows adalah?",
+        "pilihan": ["Ctrl+C", "Ctrl+V", "Ctrl+X", "Ctrl+Z"],
+        "jawaban": "Ctrl+C"
+    },
+    "46": {
+        "soal": "Istilah untuk mengatur warna keseluruhan video adalah?",
+        "pilihan": ["Color Grading", "Masking", "Tracking", "Cutting"],
+        "jawaban": "Color Grading"
+    },
+    "47": {
+        "soal": "Bagian kamera yang mengatur banyak cahaya masuk adalah?",
+        "pilihan": ["Aperture", "ISO", "Shutter Speed", "Lens Hood"],
+        "jawaban": "Aperture"
+    },
+    "48": {
+        "soal": "Jenis file untuk menyimpan proyek After Effects adalah?",
+        "pilihan": ["AEP", "PSD", "AI", "MP4"],
+        "jawaban": "AEP"
+    },
+    "49": {
+        "soal": "Penyimpanan gambar kualitas tertinggi adalah?",
+        "pilihan": ["RAW", "JPG", "GIF", "PNG"],
+        "jawaban": "RAW"
+    },
+    "50": {
+        "soal": "Software untuk desain layout majalah adalah?",
+        "pilihan": ["InDesign", "Photoshop", "Premiere Pro", "FL Studio"],
+        "jawaban": "InDesign"
+}
+}

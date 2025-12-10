@@ -1,0 +1,252 @@
+{
+    "1": {
+        "soal": "Apa fokus utama dari jurusan RPL?",
+        "pilihan": ["Pengembangan perangkat lunak", "Desain grafis", "Jaringan komputer", "Animasi 3D"],
+        "jawaban": "Pengembangan perangkat lunak"
+    },
+    "2": {
+        "soal": "Bahasa pemrograman berbasis web adalah?",
+        "pilihan": ["HTML", "Python", "C++", "Java"],
+        "jawaban": "HTML"
+    },
+    "3": {
+        "soal": "Database yang umum digunakan adalah?",
+        "pilihan": ["MySQL", "Photoshop", "CorelDraw", "After Effects"],
+        "jawaban": "MySQL"
+    },
+    "4": {
+        "soal": "Git digunakan untuk?",
+        "pilihan": ["Version control", "Editing foto", "Membuat animasi", "Mengedit audio"],
+        "jawaban": "Version control"
+    },
+    "5": {
+        "soal": "Framework JavaScript untuk frontend adalah?",
+        "pilihan": ["React", "Django", "Laravel", "Flask"],
+        "jawaban": "React"
+    },
+    "6": {
+        "soal": "Apa fungsi dari UML?",
+        "pilihan": ["Memodelkan sistem", "Mengedit video", "Mempercepat jaringan", "Menghapus bug"],
+        "jawaban": "Memodelkan sistem"
+    },
+    "7": {
+        "soal": "Bahasa yang digunakan untuk backend adalah?",
+        "pilihan": ["PHP", "Figma", "Premiere Pro", "Canva"],
+        "jawaban": "PHP"
+    },
+    "8": {
+        "soal": "Apa itu API?",
+        "pilihan": ["Antarmuka pertukaran data", "Aplikasi Photoshop", "Animasi Per Frame", "Akselerasi Pengolahan Input"],
+        "jawaban": "Antarmuka pertukaran data"
+    },
+    "9": {
+        "soal": "Struktur data yang menyimpan elemen berurutan adalah?",
+        "pilihan": ["Array", "Router", "Monitor", "Sprite"],
+        "jawaban": "Array"
+    },
+    "10": {
+        "soal": "Bahasa pemrograman yang berjalan di browser adalah?",
+        "pilihan": ["JavaScript", "C#", "Python", "Go"],
+        "jawaban": "JavaScript"
+    },
+    "11": {
+        "soal": "Apa fungsi utama dari database?",
+        "pilihan": ["Menyimpan dan mengelola data", "Membuat grafik", "Mengedit audio", "Menjalankan sistem operasi"],
+        "jawaban": "Menyimpan dan mengelola data"
+    },
+    "12": {
+        "soal": "Metode pengembangan perangkat lunak yang paling sederhana adalah?",
+        "pilihan": ["Waterfall", "Scrum", "Agile", "RAD"],
+        "jawaban": "Waterfall"
+    },
+    "13": {
+        "soal": "Bahasa pemrograman yang populer untuk Android adalah?",
+        "pilihan": ["Kotlin", "Ruby", "Swift", "Perl"],
+        "jawaban": "Kotlin"
+    },
+    "14": {
+        "soal": "IDE yang umum digunakan untuk Java adalah?",
+        "pilihan": ["NetBeans", "VS Code", "Blender", "Photoshop"],
+        "jawaban": "NetBeans"
+    },
+    "15": {
+        "soal": "Apa itu Bug?",
+        "pilihan": ["Kesalahan dalam program", "Gambar digital", "Jenis database", "Framework CSS"],
+        "jawaban": "Kesalahan dalam program"
+    },
+    "16": {
+        "soal": "Tools yang digunakan untuk membuat API adalah?",
+        "pilihan": ["Postman", "Canva", "Audacity", "PowerPoint"],
+        "jawaban": "Postman"
+    },
+    "17": {
+        "soal": "JSON digunakan untuk?",
+        "pilihan": ["Pertukaran data", "Mengedit gambar", "Membuat video", "Mengatur jaringan"],
+        "jawaban": "Pertukaran data"
+    },
+    "18": {
+        "soal": "Bahasa pemrograman yang bersifat OOP adalah?",
+        "pilihan": ["Java", "HTML", "CSS", "XML"],
+        "jawaban": "Java"
+    },
+    "19": {
+        "soal": "Apa itu debugging?",
+        "pilihan": ["Memperbaiki error", "Mengedit video", "Menghapus file besar", "Mengompres gambar"],
+        "jawaban": "Memperbaiki error"
+    },
+    "20": {
+        "soal": "Framework backend untuk PHP adalah?",
+        "pilihan": ["Laravel", "React", "Vue", "Svelte"],
+        "jawaban": "Laravel"
+    },
+    "21": {
+        "soal": "CSS digunakan untuk?",
+        "pilihan": ["Mengatur tampilan web", "Menyusun data", "Mengedit suara", "Memperbaiki bug"],
+        "jawaban": "Mengatur tampilan web"
+    },
+    "22": {
+        "soal": "Apa tugas seorang software tester?",
+        "pilihan": ["Menguji aplikasi", "Mendesain logo", "Membuat musik", "Menata jaringan"],
+        "jawaban": "Menguji aplikasi"
+    },
+    "23": {
+        "soal": "Struktur data yang bekerja dengan prinsip FIFO adalah?",
+        "pilihan": ["Queue", "Stack", "Array", "Tree"],
+        "jawaban": "Queue"
+    },
+    "24": {
+        "soal": "Struktur data yang bekerja dengan prinsip LIFO adalah?",
+        "pilihan": ["Stack", "Queue", "Heap", "Graph"],
+        "jawaban": "Stack"
+    },
+    "25": {
+        "soal": "Apa itu variable dalam pemrograman?",
+        "pilihan": ["Tempat menyimpan nilai", "Jenis jaringan", "Format audio", "Model desain"],
+        "jawaban": "Tempat menyimpan nilai"
+    },
+    "26": {
+        "soal": "SQL digunakan untuk?",
+        "pilihan": ["Mengelola database", "Membuat gambar", "Mendesain animasi", "Render video"],
+        "jawaban": "Mengelola database"
+    },
+    "27": {
+        "soal": "GitHub berfungsi untuk?",
+        "pilihan": ["Menyimpan dan mengelola kode", "Mengedit rekaman", "Membuat 3D", "Menulis dokumen legal"],
+        "jawaban": "Menyimpan dan mengelola kode"
+    },
+    "28": {
+        "soal": "Apa itu function?",
+        "pilihan": ["Blok kode yang dapat dipanggil", "Jenis database", "Mode jaringan", "Format gambar"],
+        "jawaban": "Blok kode yang dapat dipanggil"
+    },
+    "29": {
+        "soal": "Bahasa backend selain PHP adalah?",
+        "pilihan": ["Node.js", "Photoshop", "Figma", "CorelDraw"],
+        "jawaban": "Node.js"
+    },
+    "30": {
+        "soal": "Metode Agile menekankan pada?",
+        "pilihan": ["Perubahan cepat dan fleksibel", "Dokumentasi lengkap", "Desain grafis", "Keamanan jaringan"],
+        "jawaban": "Perubahan cepat dan fleksibel"
+    },
+    "31": {
+        "soal": "Perintah SQL untuk menampilkan data adalah?",
+        "pilihan": ["SELECT", "INSERT", "DELETE", "UPDATE"],
+        "jawaban": "SELECT"
+    },
+    "32": {
+        "soal": "Apa itu localhost?",
+        "pilihan": ["Server di komputer sendiri", "Server luar negeri", "Jaringan sekolah", "Komputer server kampus"],
+        "jawaban": "Server di komputer sendiri"
+    },
+    "33": {
+        "soal": "HTML adalah singkatan dari?",
+        "pilihan": ["HyperText Markup Language", "HighText Machine Logic", "Hyper Transfer Machine Link", "Home Text Model Language"],
+        "jawaban": "HyperText Markup Language"
+    },
+    "34": {
+        "soal": "Apa itu framework?",
+        "pilihan": ["Kerangka kerja pengembangan", "Jenis database", "Antivirus", "Perangkat keras"],
+        "jawaban": "Kerangka kerja pengembangan"
+    },
+    "35": {
+        "soal": "Bahasa yang digunakan untuk styling website adalah?",
+        "pilihan": ["CSS", "C++", "Java", "Python"],
+        "jawaban": "CSS"
+    },
+    "36": {
+        "soal": "Java digunakan untuk membuat?",
+        "pilihan": ["Aplikasi multiplatform", "Foto digital", "Desain poster", "Audio mixing"],
+        "jawaban": "Aplikasi multiplatform"
+    },
+    "37": {
+        "soal": "Apa itu hosting?",
+        "pilihan": ["Tempat menyimpan website", "Tempat menyimpan foto", "Game map server", "Jaringan WiFi"],
+        "jawaban": "Tempat menyimpan website"
+    },
+    "38": {
+        "soal": "Perintah untuk mengirim kode ke GitHub adalah?",
+        "pilihan": ["git push", "git pull", "git clone", "git init"],
+        "jawaban": "git push"
+    },
+    "39": {
+        "soal": "Perintah untuk mengambil kode dari GitHub adalah?",
+        "pilihan": ["git pull", "git push", "git init", "git status"],
+        "jawaban": "git pull"
+    },
+    "40": {
+        "soal": "Apa itu library?",
+        "pilihan": ["Kumpulan fungsi siap pakai", "Perangkat keras", "Jenis kabel", "Format dokumen"],
+        "jawaban": "Kumpulan fungsi siap pakai"
+    },
+    "41": {
+        "soal": "REST API digunakan untuk?",
+        "pilihan": ["Membangun layanan web", "Desain grafis", "Editing audio", "Mengoptimalkan printer"],
+        "jawaban": "Membangun layanan web"
+    },
+    "42": {
+        "soal": "Firebase digunakan untuk?",
+        "pilihan": ["Database realtime", "Pengeditan video", "Modeling 3D", "Mengatur animasi"],
+        "jawaban": "Database realtime"
+    },
+    "43": {
+        "soal": "Bahasa pemrograman yang digunakan untuk iOS adalah?",
+        "pilihan": ["Swift", "Java", "Ruby", "PHP"],
+        "jawaban": "Swift"
+    },
+    "44": {
+        "soal": "Apa itu domain?",
+        "pilihan": ["Alamat website", "Jenis jaringan", "Aplikasi cloud", "Perintah SQL"],
+        "jawaban": "Alamat website"
+    },
+    "45": {
+        "soal": "Metode kerja Scrum menggunakan?",
+        "pilihan": ["Sprint", "Frameset", "Storyboard", "Blueprint"],
+        "jawaban": "Sprint"
+    },
+    "46": {
+        "soal": "Apa itu UI?",
+        "pilihan": ["User Interface", "Unique Input", "Universal Icon", "Unit Instruction"],
+        "jawaban": "User Interface"
+    },
+    "47": {
+        "soal": "Apa itu UX?",
+        "pilihan": ["User Experience", "User Extension", "Utility Exchange", "Unified Experiment"],
+        "jawaban": "User Experience"
+    },
+    "48": {
+        "soal": "Bahasa yang digunakan untuk query data adalah?",
+        "pilihan": ["SQL", "HTML", "CSS", "JavaScript"],
+        "jawaban": "SQL"
+    },
+    "49": {
+        "soal": "Backend dan frontend digabung disebut?",
+        "pilihan": ["Fullstack", "Dualcode", "Hybrid Dev", "Softcode"],
+        "jawaban": "Fullstack"
+    },
+    "50": {
+        "soal": "Apa itu cloud computing?",
+        "pilihan": ["Komputasi berbasis internet", "Jaringan lokal", "Penyimpanan USB", "Perangkat keras server"],
+        "jawaban": "Komputasi berbasis internet"
+}
+}
